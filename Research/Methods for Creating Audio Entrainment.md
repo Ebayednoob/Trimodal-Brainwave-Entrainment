@@ -54,6 +54,19 @@ Audio entrainment leverages sound to influence brainwave patterns, aiming to syn
 
 Audio entrainment encompasses several methodologies, each with unique mechanisms and applications. Acoustic coordinated reset neuromodulation is primarily used for clinical purposes like tinnitus, while binaural and isochronic entrainment are popular for cognitive and wellness applications. Monaural beats and music modulation offer alternative approaches with their own advantages[1][2][3][4][6][7][8].
 
+## Section 3: Target frequency for entrainment
+Binaural beats, monaural beats, and isochronic tones all aim to entrain brainwaves to specific frequencies, but they differ in how they deliver and target these frequencies:
+
+- **Binaural Beats:** Created by playing two slightly different frequencies in each ear via headphones; the brain perceives a third, internal beat at the difference between the two frequencies. Binaural beats are most effective at targeting lower frequency ranges (such as delta, theta, and alpha) and are generally less effective for higher beta and gamma frequencies due to the limitations of auditory perception and the subtlety of the effect[1][3]. Headphones are required for proper effect[1][3].
+
+- **Monaural Beats:** Produced by combining two frequencies outside the brain, resulting in an audible beat delivered to both ears together. Monaural beats produce a more pronounced and easily detectable beat, making them effective across a wider frequency range, including higher frequencies[2][4][5]. Headphones are not required, and the effect is generally stronger than binaural beats[2][7].
+
+- **Isochronic Tones:** Consist of a single tone that is rapidly turned on and off at a specific frequency, creating clear, sharp pulses. Isochronic tones generate the strongest cortical response and are highly effective for entrainment across the full spectrum of brainwave frequencies, including higher beta and gamma ranges[1][4][6][8]. They do not require headphones and are considered more effective than binaural beats for brainwave entrainment, especially at higher frequencies[1][6][8].
+
+In summary, while all three methods can target a range of brainwave frequencies, binaural beats are best suited for lower frequencies and require headphones, whereas monaural beats and especially isochronic tones can effectively target both low and high frequencies without the need for headphones, with isochronic tones providing the most pronounced entrainment effect[1][2][4][6].
+
+---
+
 Citations From 1: Common Frequencies  <br>
 [1] https://pmc.ncbi.nlm.nih.gov/articles/PMC10198548/  <br>
 [2] https://roxiva.com/what-are-brainwaves-an-introduction-brainwave-frequencies/  <br>
@@ -75,6 +88,16 @@ Citations From Section 2: Methods for Creating Audio Entrainment  <br>
 [8] https://www.checkhearing.org/cr-neuromodulation.php  <br>
 [9] https://www.youtube.com/watch?v=5PyGwQfdfmQ  <br>
 [10] https://www.sciencedirect.com/science/article/pii/S2213158217301225  <br>
+
+Citations From Section 3: Target frequency for entrainment  <br>
+[1] https://www.mindamend.com/brainwave-entrainment/binaural-beats-vs-isochronic-tones/  <br>
+[2] https://www.binauralbeatsfreak.com/binaural-beats/binaural-beats-vs-monaural-beats  <br>
+[3] https://braintap.com/binaural-beats-vs-isochronic-tones-a-guide-to-auditory-brainwave-entrainment/  <br>
+[4] https://pmc.ncbi.nlm.nih.gov/articles/PMC7204407/  <br>
+[5] https://www.soundmedicineacademy.com/pages/sound-healing-blog/binaural-beats-monaural-beats-sound-healing-training  <br>
+[6] https://www.harmonance.com/resources/understanding-binaural-beats-vs-isochronic-tones-a-comprehensive-guide  <br>
+[7] https://mindalive.com/pages/entraining-tones-and-binaural-beats  <br>
+[8] https://www.gaia.com/article/isochronic-tones-the-young-cousin-of-binaural-beats  <br>
 
 
 
