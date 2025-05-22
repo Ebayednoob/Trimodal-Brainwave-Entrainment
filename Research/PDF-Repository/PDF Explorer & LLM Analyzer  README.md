@@ -1,5 +1,10 @@
 # PDF Explorer & LLM Analyzer
 
+## Tutorial Video
+
+For a visual guide and walkthrough of the features, please check out our tutorial video:
+[Watch the Tutorial](https://youtu.be/tbE6fdXtTW4) 
+
 ## Overview
 
 The PDF Explorer & LLM Analyzer is a Python-based desktop application designed for researchers and analysts to efficiently view PDF documents, leverage Large Language Models (LLMs) for text summarization and chat-based analysis, and extract structured graph data from PDF content. The application features a multi-tab interface for easy navigation between PDF viewing, LLM interaction, and graph data management.
@@ -96,10 +101,7 @@ The PDF Explorer & LLM Analyzer is a Python-based desktop application designed f
 4.  **Themes Menu**:
     * Click "Themes" in the menu bar and select "Default" or "Matrix" to change the application's appearance.
 
-## Tutorial Video
 
-For a visual guide and walkthrough of the features, please check out our tutorial video:
-[Watch the Tutorial](https://www.youtube.com/watch?<FILLINLATER>) *(Please replace `<FILLINLATER>` with your actual video ID/URL)*
 
 ## Future Enhancements (Potential)
 
